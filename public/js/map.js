@@ -5,7 +5,7 @@ jQuery(function ($) {
          var mapOptions = {
             zoom: 16,
             scrollwheel: false,
-            center: new google.maps.LatLng(51.496611, -0.137964),
+            center: new google.maps.LatLng(48.426829, -89.234374),
             zoomControl: true,
             gestureHandling: 'cooperative',
             overviewMapControl: true,
